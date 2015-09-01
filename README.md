@@ -14,3 +14,8 @@ I will learn how to access, secure, and perform the initial configuration of a b
 
 Deploying my web applications to a publicly accessible server is the first step in getting users
 Properly securing my application ensures my application remains stable and that my user’s data is safe
+
+### Relevant Information for Udacity Grader:
+IP Address = 52.24.210.121
+SSH Port = 2200
+Complete URL = http://52.24.210.121/
